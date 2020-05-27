@@ -1,5 +1,7 @@
 # Astar-PathFinder
 Based on A* algorithm
+By: Shubhasri Vanam 
+
 This project was inspired from A* Path Finding Algorithm of Coding Train.
 A* algorithm helps us to find the shortest path from one location to another.
 It is based of a general formula i.e., f(n)=g(n)+h(n)
