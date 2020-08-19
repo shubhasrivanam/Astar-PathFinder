@@ -11,5 +11,5 @@ g(n) is the time it takes from the starting point to the current point
 h(n) called as the heuristic is guessing the time it takes from the current point to the end.
 f(n) is the summation of both of the above.
 
-By calculating f, g, and h it become quite easy to find the shortest path to the end.
+By calculating f, g, and h it becomes quite easy to find the shortest path to the end.
 All we have to do is the join the cells with the least f(n) value.
